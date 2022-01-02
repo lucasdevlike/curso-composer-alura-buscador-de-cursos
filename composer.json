@@ -1,5 +1,5 @@
 {
-    "name": "lucasdev/buscador-cursos",
+    "name": "lucasdevlike/buscador-cursos",
     "description": "buscador de cursos da alura",
     "type": "library",
     "autoload": {
