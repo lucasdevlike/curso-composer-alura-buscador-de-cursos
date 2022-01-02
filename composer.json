@@ -1,0 +1,22 @@
+{
+    "name": "lucasdev/buscador-cursos",
+    "description": "buscador de cursos da alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alura\\BuscadorDeCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Dev",
+            "email": "91020853+lucasdevlike@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^6.0",
+        "phan/phan": "^5.3"
+    }
+}
